@@ -12,13 +12,13 @@ Look how much crap is eating FPS on your windows machine!
 TODO: I WILL ADD SCREENSHOTS OF PERFORMANCE TEST <br>
 
 <h1>TUTORIAL</h1>
-1. Download [AtlasOS](https://atlasos.net/) <br>
+1. Download <a href="https://atlasos.net/">AtlasOS</a> <br>
 It is best windows addon that will remove <b>ALL</b> of windows bloat which will give you nice performance boost and will make using windows 10 much more plesureable <br>
 <br>
-2. Download [AdamX Optimization Pack](https://www.youtube.com/watch?v=hQSkPmZRCjc) <br>
+2. Download <a href="https://www.youtube.com/watch?v=hQSkPmZRCjc">AdamX Optimization Pack</a> <br>
 It is windows optimization pack that will optimize windows settings which for some reason are by default set to power-saving instead of prefering max performance  <br>
 <br>
-3. Download [Park Control](https://bitsum.com/parkcontrol/)
+3. Download <a href="https://bitsum.com/parkcontrol/">Park Control </a>
 Then set **Power profile** to **Bitsum Highest Performance** <br>
 This will prevent windows from disabling cpu cores to save power <br>
 ![scrteen3](https://github.com/user-attachments/assets/b7a2dabe-c7e2-46ea-a6f1-34f65b130e6b)
