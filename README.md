@@ -19,6 +19,6 @@ It is best windows addon that will remove <b>ALL</b> of windows bloat which will
 It is windows optimization pack that will optimize windows settings which for some reason are by default set to power-saving instead of prefering max performance  <br>
 <br>
 3. Download <a href="https://bitsum.com/parkcontrol/">Park Control </a>
-Then set **Power profile** to **Bitsum Highest Performance** <br>
+Then set <b>Power profile</b> to <b>Bitsum Highest Performance</b> <br>
 This will prevent windows from disabling cpu cores to save power <br>
 ![scrteen3](https://github.com/user-attachments/assets/b7a2dabe-c7e2-46ea-a6f1-34f65b130e6b)
