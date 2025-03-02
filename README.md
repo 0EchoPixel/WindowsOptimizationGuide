@@ -7,7 +7,7 @@ Look how much crap is eating FPS on your windows machine!
 ![screen2](https://github.com/user-attachments/assets/6888b339-08bf-4479-92e0-2480371bbcf1)![screen1](https://github.com/user-attachments/assets/23cdeb29-d33e-42e0-8cbd-de2b6203e2eb)
 
 <br>
-<b> Is it worth the effort? YES </b>
+<b> Is it worth the effort? YES </b> <br>
 Best result i got was on my friend computer and we went <b>from 200-500FPS to 1800-2000</b> in Minecraft
 TODO: I WILL ADD SCREENSHOTS OF PERFORMANCE TEST
 
