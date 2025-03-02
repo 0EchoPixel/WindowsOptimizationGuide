@@ -22,7 +22,8 @@ Tutorial: https://youtu.be/HGdaHz3VlO8
 ### 2. Use [AdamX Optimization Pack](https://www.youtube.com/watch?v=hQSkPmZRCjc)  
 This optimization pack adjusts Windows settings that are, by default, configured for power saving instead of maximum performance.  
 
-### 3. Configure [ParkControl](https://bitsum.com/parkcontrol/)  
+### 3. Use [ParkControl](https://bitsum.com/parkcontrol/)
+- Download ParkControl
 - Set the **Power Profile** to **Bitsum Highest Performance**  
 - This prevents Windows from disabling CPU cores to save power, ensuring maximum performance.  
 
