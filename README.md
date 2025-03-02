@@ -19,10 +19,8 @@ Take a look at how much unnecessary software is impacting your FPS!
 AtlasOS is the best Windows modification that removes **all** unnecessary bloatware, significantly improving performance and making Windows 10 much more enjoyable to use. <br>
 Tutorial: https://youtu.be/HGdaHz3VlO8
 
-### 2. Use [AdamX Optimization Pack](https://mega.nz/file/R14TjYwA#pGYLQge1RPPUYvYfjIGblzLDo2m3Ig_G1XetZiYqcpo)  
+### 2. Use [AdamX Optimization Pack](https://www.youtube.com/watch?v=hQSkPmZRCjc)  
 This optimization pack adjusts Windows settings that are, by default, configured for power saving instead of maximum performance.  
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/cfeW2B4p-vs?si=LkdmZnYby3qKVuI8](https://www.youtube.com/watch?v=hQSkPmZRCjc)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 3. Use [ParkControl](https://bitsum.com/parkcontrol/)
 - Download ParkControl
