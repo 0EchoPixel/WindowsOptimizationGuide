@@ -24,7 +24,9 @@ This optimization pack adjusts Windows settings that are, by default, configured
 
 ### 3. Use [ParkControl](https://bitsum.com/parkcontrol/)
 - Download ParkControl
-- Set the **Power Profile** to **Bitsum Highest Performance**  
-- This prevents Windows from disabling CPU cores to save power, ensuring maximum performance.  
+- Set the **Power Profile** to **Bitsum Highest Performance** and click **Make active** until all of your cores become enabled  
+- This prevents Windows from disabling CPU cores to save power, ensuring maximum performance.
 
-![screen3](https://github.com/user-attachments/assets/c8d1ca70-1c10-47c3-8405-9cc7c23859b7)  
+![scrteen3](https://github.com/user-attachments/assets/c6b6e2f4-80b5-41e2-a4ee-c4102fe75b8f)
+
+
