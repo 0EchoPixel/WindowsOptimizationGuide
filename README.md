@@ -15,7 +15,7 @@ Take a look at how much unnecessary software is impacting your FPS!
 
 # Tutorial  
 
-### 1. Install [AtlasOS](https://atlasos.net/)  
+### 1. Install [AtlasOS](https://atlasos.net/) (Get started now > I'm following the guide, show me the downloads)
 AtlasOS is the best Windows modification that removes **all** unnecessary bloatware, significantly improving performance and making Windows 10 much more enjoyable to use. <br>
 Tutorial: https://youtu.be/HGdaHz3VlO8
 
