@@ -21,4 +21,5 @@ It is windows optimization pack that will optimize windows settings which for so
 3. Download <a href="https://bitsum.com/parkcontrol/">Park Control </a>
 Then set <b>Power profile</b> to <b>Bitsum Highest Performance</b> <br>
 This will prevent windows from disabling cpu cores to save power <br>
+
 ![scrteen3](https://github.com/user-attachments/assets/c8d1ca70-1c10-47c3-8405-9cc7c23859b7)
