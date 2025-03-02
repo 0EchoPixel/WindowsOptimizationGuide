@@ -1,25 +1,28 @@
-# Windows Optimization Guide
-Guide to optimize your windows OS to get MUCH higher FPS
+# Windows Optimization Guide  
+A comprehensive guide to optimizing your Windows OS for significantly higher FPS and better performance.  
 
-<h3> As you may know, microsoft likes put shit into their system, show ads and install not wanted bloatware into your computer </h3> <br>
-Look how much crap is eating FPS on your windows machine!
+## Why Optimize Windows?  
+Microsoft includes unnecessary features, ads, and bloatware that slow down your system. These background processes consume valuable resources, reducing FPS and overall performance.  
 
-![screen2](https://github.com/user-attachments/assets/6888b339-08bf-4479-92e0-2480371bbcf1)![screen1](https://github.com/user-attachments/assets/23cdeb29-d33e-42e0-8cbd-de2b6203e2eb)
+Take a look at how much unnecessary software is impacting your FPS!  
 
-<br>
-<h2> Is it worth the effort? </h2>
-<b>YES!</b> Best result i got was on my friend computer and we went <b>from 200-500FPS to 1800-2000</b> in Minecraft <br>
-TODO: I WILL ADD SCREENSHOTS OF PERFORMANCE TEST <br>
+![screen2](https://github.com/user-attachments/assets/6888b339-08bf-4479-92e0-2480371bbcf1) ![screen1](https://github.com/user-attachments/assets/23cdeb29-d33e-42e0-8cbd-de2b6203e2eb)  
 
-<h1>TUTORIAL</h1>
-1. Download <a href="https://atlasos.net/">AtlasOS</a> <br>
-It is best windows addon that will remove <b>ALL</b> of windows bloat which will give you nice performance boost and will make using windows 10 much more plesureable <br>
-<br>
-2. Download <a href="https://www.youtube.com/watch?v=hQSkPmZRCjc">AdamX Optimization Pack</a> <br>
-It is windows optimization pack that will optimize windows settings which for some reason are by default set to power-saving instead of prefering max performance  <br>
-<br>
-3. Download <a href="https://bitsum.com/parkcontrol/">Park Control </a>
-Then set <b>Power profile</b> to <b>Bitsum Highest Performance</b> <br>
-This will prevent windows from disabling cpu cores to save power <br>
+## Is It Worth It?  
+**Absolutely!** The best results I achieved were on my friend's computer, where FPS in Minecraft jumped **from 200-500 to an incredible 1800-2000!**  
 
-![scrteen3](https://github.com/user-attachments/assets/c8d1ca70-1c10-47c3-8405-9cc7c23859b7)
+*(TODO: I will add performance test screenshots soon.)*  
+
+# Tutorial  
+
+### 1. Install [AtlasOS](https://atlasos.net/)  
+AtlasOS is the best Windows modification that removes **all** unnecessary bloatware, significantly improving performance and making Windows 10 much more enjoyable to use.  
+
+### 2. Use [AdamX Optimization Pack](https://www.youtube.com/watch?v=hQSkPmZRCjc)  
+This optimization pack adjusts Windows settings that are, by default, configured for power saving instead of maximum performance.  
+
+### 3. Configure [ParkControl](https://bitsum.com/parkcontrol/)  
+- Set the **Power Profile** to **Bitsum Highest Performance**  
+- This prevents Windows from disabling CPU cores to save power, ensuring maximum performance.  
+
+![screen3](https://github.com/user-attachments/assets/c8d1ca70-1c10-47c3-8405-9cc7c23859b7)  
